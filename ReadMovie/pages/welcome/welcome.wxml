@@ -1,0 +1,7 @@
+<view class="container">
+    <image class="user-avatar" src="/image/e.gif"></image>
+    <text class="user-name">hello</text>
+    <view class="moto-container" bindtap="onTap">
+    <text class="moto">begin a new trip</text>
+    </view>
+</view>
